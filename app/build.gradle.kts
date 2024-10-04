@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "carreiras.com.github.cryptomonitor"
+    namespace = "manocce.com.github.checkkotlin_metade_crypto"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "carreiras.com.github.cryptomonitor"
+        applicationId = "manocce.com.github.checkkotlin_metade_crypto"
         minSdk = 27
         targetSdk = 34
         versionCode = 1

@@ -1,4 +1,4 @@
-package carreiras.com.github.cryptomonitor
+package manocce.com.github.checkkotlin_metade_crypto
 
 import org.junit.Test
 
